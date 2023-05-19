@@ -3,7 +3,6 @@
 ```
 # with Kotlin coroutine (kotest FunSpec) and logback fails
 $ USE_LOGBACK=true ./gradlew test
-
 ```
 
 ```
